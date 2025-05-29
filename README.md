@@ -22,6 +22,7 @@
 <h2>API Endpoint</h2>
 <p>The application fetches scheduled matches using the following Football-Data.org API endpoint:</p>
 <pre><code>GET https://api.football-data.org/v4/matches?status=SCHEDULED</code></pre>
+<p>More info: <a href="https://www.football-data.org/documentation/quickstart">Football-Data.org API Documentation</a></p>
 
 <hr>
 
@@ -32,3 +33,9 @@
   <li>Start the Node.js server.</li>
   <li>Open the application in your web browser to view live upcoming football matches.</li>
 </ol>
+
+<hr>
+
+<h2>Preview</h2>
+<p>Below is a preview of the application's user interface showing the list of upcoming matches:</p>
+<img src="./output.png" alt="App Screenshot" width="600"/>
