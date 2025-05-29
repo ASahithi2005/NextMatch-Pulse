@@ -38,4 +38,4 @@
 
 <h2>Preview</h2>
 <p>Below is a preview of the application's user interface showing the list of upcoming matches:</p>
-<img src="../public/output.png" alt="App Screenshot" width="600"/>
+<img src="./public/output.png" alt="App Screenshot" width="600"/>
